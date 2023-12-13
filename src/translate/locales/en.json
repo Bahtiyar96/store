@@ -1,0 +1,14 @@
+{
+   "sidebar": {
+      "main": "Main",
+      "products": "Products",
+      "categories": "Categories",
+      "orders": "Orders",
+      "dashboard": "Dashboard",
+      "profile": "Profile"
+   },
+   "languages": {
+      "en": "English",
+      "ru": "Russian"
+   }
+}
